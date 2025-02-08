@@ -30,4 +30,4 @@
 Este software debe ser utilizado únicamente con fines educativos y de prueba en servidores propios o con el consentimiento explícito del propietario del servidor. El uso indebido de esta herramienta podría violar las leyes locales y las políticas de los proveedores de servicios de red.
 
 ## **Descarga**:
-Puedes obtener el archivo ejecutable **FlooderX.exe** en la sección de [Releases]([enlace_a_tu_rel](https://github.com/Ades12121212121/FlooderX/releases/download/%23flood/FlooderX.exe))
+Puedes obtener el archivo ejecutable **FlooderX.exe** en la sección de [Releases]((https://github.com/Ades12121212121/FlooderX/releases/download/%23flood/FlooderX.exe))
